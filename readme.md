@@ -1,1 +1,1 @@
-![alt text](image.jpg)
+![Screen dell'esercizio Flukeout completato](image.jpg)
